@@ -60,7 +60,7 @@ const Sidebar = () => {
   };
 
   return (
-    <aside className="w-75 p-5 min-h-svh">
+    <aside className="w-60 p-5 min-h-svh">
       <h1 className="text-2xl font-bold mb-10 mt-4">ECommerce Store</h1>
       {/* Search Section */}
       <input

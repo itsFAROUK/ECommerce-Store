@@ -100,7 +100,7 @@ const MainContent = () => {
   };
 
   return (
-    <main className="sm:w-[40rem] lg:w-[55rem] xl:w-[55rem] xs:w-[20rem] p-5">
+    <main className="sm:w-[40rem] lg:w-[55rem] xl:w-[55rem] xs:w-[20rem] p-5 mr-[5rem]">
       <div className="mb-5">
         <div className="flex flex-col sm:flex-row justify-between items-center">
           <div className="relative mb-5 mt-5">
